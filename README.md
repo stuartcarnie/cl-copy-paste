@@ -1,5 +1,5 @@
 ## Summary
-__`pbcopy`__ and __`pbpaste`__ provide provide copying and pasting via the command line, similar to their 
+`pbcopy` and `pbpaste` provide provide copying and pasting via the command line, similar to their 
 [OS X counterparts][MANPAGE].
 
 ## Author
@@ -9,11 +9,11 @@ __`pbcopy`__ and __`pbpaste`__ provide provide copying and pasting via the comma
 `pbcopy` and `pbpaste` are MIT licensed
 
 ## Usage
-__`pbcopy`__
+`pbcopy`
 
   * copy contents of `STDIN` to clipboard
 
-__`pbpaste`__
+`pbpaste`
 
   * paste context of clipboard to `STDOUT`
 
